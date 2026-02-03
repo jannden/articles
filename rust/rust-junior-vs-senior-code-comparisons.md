@@ -1,6 +1,6 @@
 # Rust: Junior vs Senior Code Comparisons
 
-*Originally published [here](https://medium.com/@jannden/rust-junior-vs-senior-code-comparisons-ad43be44d193?sk=b5d53e0cbba2ace69bbdc82dfed45156).*
+*Originally published on Oct 10, 2024 [here](https://medium.com/@jannden/rust-junior-vs-senior-code-comparisons-ad43be44d193?sk=b5d53e0cbba2ace69bbdc82dfed45156).*
 
 ---
 
